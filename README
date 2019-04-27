@@ -1,1 +1,13 @@
+## Testing Git from Ubuntu
 TODO: Add contents for README
+
+## Compile the program
+```
+gcc strings.c -o strings
+```
+
+## Run the program
+```
+chmod u+x strings
+./strings
+```
